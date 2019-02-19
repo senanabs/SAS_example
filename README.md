@@ -23,13 +23,13 @@ there is no time effect in the Sham category. Time Point and Condition are also 
 conditions to make one variable. In summary, Condition and Time Point are grouped together into a new 
 independent variable called Group, with 7 levels:
 
-Sham
-Crush Acute
-Crush Regeneration
-Crush Healed
-Cut Acute
-Cut Regeneration
-Cut Healed		
+Sham  
+Crush Acute  
+Crush Regeneration  
+Crush Healed  
+Cut Acute  
+Cut Regeneration  
+Cut Healed  	
 
 **Method**
 
@@ -42,15 +42,15 @@ Rise Time allow for the approximation of normality in data.
 Bonferroni stepdown procedure in Proc Glimmix was utilized to make pairwise comparisons on mean rise time for 
 the following Group combinations: 
 
-Crush Acute - Sham
-Crush Regeneration - Sham
-Crush Healed - Sham
-Cut Acute - Sham
-Cut Regeneration - Sham
-Cut Healed - Sham
-Cut Acute - Crush Acute
-Cut Regeneration - Crush Regeneration
-Cut Healed - Crush Healed
+Crush Acute - Sham  
+Crush Regeneration - Sham  
+Crush Healed - Sham  
+Cut Acute - Sham  
+Cut Regeneration - Sham  
+Cut Healed - Sham  
+Cut Acute - Crush Acute  
+Cut Regeneration - Crush Regeneration  
+Cut Healed - Crush Healed  
 
 
 
