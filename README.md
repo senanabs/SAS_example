@@ -52,5 +52,20 @@ Cut Acute - Crush Acute
 Cut Regeneration - Crush Regeneration  
 Cut Healed - Crush Healed  
 
+**Results**
+
+Initial analysis with Proc Mixed revealed that interaction between Group and Sex are statistically 
+insignificant at significance level 0.01. 
+
+The model was reanalyzed without the interaction and the results are shown in Table 3. Group is still 
+statistically significant in determining Rise Time with a p-value of 0.0002. Sex is still statistically 
+insignificant at significance level 0.01. 
+
+Parameter estimates for Group and Sex are shown in Table 4. It is important to note here that estimates 
+for Group 7(Cut Healed) and Sex Male are set to zero. There is only one statistically significant parameter 
+estimate at alpha level 0.01: The intercept (1.4652) estimates the mean Rise Time for Males in Group 7
+(Cut Healed). The p-value (<0.0001) is from a test that this mean equals zero. Since p-value is <0.01, mean 
+Rise Time for Males in Cut Healed group is significant. 
+
 
 
