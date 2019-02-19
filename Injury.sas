@@ -1,9 +1,3 @@
-/*
-Client: [Redacted]
-Affiliation: Boonshoft School of Medicine
-Meeting Date: 09/17/2018, 1.30pm - 2.30pm
-*/
-
 /*Data Import*/
 PROC IMPORT DATAFILE='/folders/myfolders/MarieWalters-InjuryData.csv'
 	DBMS=CSV
